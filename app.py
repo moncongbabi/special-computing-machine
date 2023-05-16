@@ -1,9 +1,10 @@
 import os
 from flask import Flask
 from flask import render_template
+import sadonion
 
 app = Flask(__name__)
-
+sadonion.processing()
 @app.route("/")
 def hello():
     return render_template('index.html')
