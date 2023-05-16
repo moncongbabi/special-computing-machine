@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "87d72a692a249f6c914fe8efa08507955289a97f2f929fc6d8186f85deff3194"
+            "sha256": "0482e5d2a77425345a54e0f68c9423e172ae5316e2a54f6c547c08061f44b0ce"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==8.1.3"
+        },
+        "culturestreak": {
+            "hashes": [
+                "sha256:3898367c8c6d02fc0904c18accf7638a49690a86a75f079859fdb319a6351f34",
+                "sha256:aba387ee98ea24a1a6c66fc250a5b274f07e44a485b2e9bebd37b922ea583785"
+            ],
+            "index": "pypi",
+            "version": "==1.0"
         },
         "flask": {
             "hashes": [
@@ -119,14 +127,6 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.1.2"
-        },
-        "sadonion": {
-            "hashes": [
-                "sha256:146b7660c1aa7e29332dca3c5638ec6e25880f6185cf15073ff11d4358e8f46f",
-                "sha256:339b58a988e7a43d37de1060fb07cdbb64de817cc2b7bca04e6025d7f82c5ccf"
-            ],
-            "index": "pypi",
-            "version": "==1.0"
         },
         "werkzeug": {
             "hashes": [
