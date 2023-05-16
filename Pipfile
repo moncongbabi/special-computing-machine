@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 flask = ">=2.2.2"
-
+sadonion = ">=1.0"
 [dev-packages]
 
 [requires]
